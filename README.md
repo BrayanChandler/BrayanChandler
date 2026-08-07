@@ -42,28 +42,30 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="28" alt="robot"/> Sobre Mim
 
 <table>
-  <tr>
-    <td width="60%">
+<tr>
+<td width="60%">
 
 <p>
-  Sou <strong>Bryan</strong>, um desenvolvedor focado em criar experiências digitais modernas, inteligentes e performáticas.
-  Gosto de unir <strong>código limpo</strong>, <strong>interfaces premium</strong>, <strong>automação</strong>, <strong>IA</strong> e
-  <strong>arquitetura escalável</strong> para transformar ideias em produtos reais.
+Sou <strong>Bryan</strong>, um desenvolvedor focado em criar experiências digitais modernas, inteligentes e performáticas.
+Gosto de unir <strong>código limpo</strong>, <strong>interfaces premium</strong>, <strong>automação</strong>, <strong>IA</strong> e
+<strong>arquitetura escalável</strong> para transformar ideias em produtos reais.
 </p>
 
 <ul>
-  <li>🚀 Atualmente construindo projetos com foco em <strong>IA, Web e Automação</strong></li>
-  <li>🧠 Estudando <strong>Machine Learning, Cloud, Arquitetura e Sistemas Inteligentes</strong></li>
-  <li>🛠️ Gosto de criar ferramentas que economizam tempo e ampliam possibilidades</li>
-  <li>🎯 Missão: desenvolver soluções com visual marcante, performance e propósito</li>
-  <li>⚡ Princípio: tecnologia boa parece magia, mas roda com engenharia</li>
+<li>🚀 Atualmente construindo projetos com foco em <strong>IA, Web e Automação</strong></li>
+<li>🧠 Estudando <strong>Machine Learning, Cloud, Arquitetura e Sistemas Inteligentes</strong></li>
+<li>🛠️ Gosto de criar ferramentas que economizam tempo e ampliam possibilidades</li>
+<li>🎯 Missão: desenvolver soluções com visual marcante, performance e propósito</li>
+<li>⚡ Princípio: tecnologia boa parece magia, mas roda com engenharia</li>
 </ul>
 
-    </td>
-    <td width="40%" align="center">
-      <img width="310" src="https://github-stats-extended.vercel.app/api?username=BrayanChandler&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=FF007A&text_color=E6F7FF" alt="GitHub Stats"/>
-    </td>
-  </tr>
+</td>
+<td width="40%" align="center">
+
+<img width="310" src="https://github-stats-extended.vercel.app/api?username=BrayanChandler&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=FF007A&text_color=E6F7FF" alt="GitHub Stats"/>
+
+</td>
+</tr>
 </table>
 
 ---
