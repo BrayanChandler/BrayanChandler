@@ -27,17 +27,15 @@
 
 <div align="center">
 
-```txt
-+----------------------------------------------------------------------+
+  <pre><code>+----------------------------------------------------------------------+
 | SYSTEM INITIALIZATION                                                |
 +----------------------------------------------------------------------+
 | USER............. Bryan                                              |
 | ROLE............. Tecnico em Informatica, Se formando em ADS.        |
-| LOCATION......... Manaus, Am                                         |
+| LOCATION......... Manaus, AM                                         |
 | INTERFACE........ GitHub Profile / AI Command Center                 |
 | STATUS........... Building, learning, shipping                       |
-+----------------------------------------------------------------------+
-```
++----------------------------------------------------------------------+</code></pre>
 
 </div>
 
@@ -47,13 +45,19 @@
   <tr>
     <td width="60%">
 
-Sou **Bryan**, um(a) desenvolvedor(a) focado(a) em criar experiências digitais modernas, inteligentes e performáticas. Gosto de unir **código limpo**, **interfaces premium**, **automação**, **IA** e **arquitetura escalável** para transformar ideias em produtos reais.
+<p>
+  Sou <strong>Bryan</strong>, um desenvolvedor focado em criar experiências digitais modernas, inteligentes e performáticas.
+  Gosto de unir <strong>código limpo</strong>, <strong>interfaces premium</strong>, <strong>automação</strong>, <strong>IA</strong> e
+  <strong>arquitetura escalável</strong> para transformar ideias em produtos reais.
+</p>
 
-- 🚀 Atualmente construindo projetos com foco em **IA, Web e Automação**
-- 🧠 Estudando **Machine Learning, Cloud, Arquitetura e Sistemas Inteligentes**
-- 🛠️ Gosto de criar ferramentas que economizam tempo e ampliam possibilidades
-- 🎯 Missão: desenvolver soluções com visual marcante, performance e propósito
-- ⚡ Princípio: tecnologia boa parece magia, mas roda com engenharia
+<ul>
+  <li>🚀 Atualmente construindo projetos com foco em <strong>IA, Web e Automação</strong></li>
+  <li>🧠 Estudando <strong>Machine Learning, Cloud, Arquitetura e Sistemas Inteligentes</strong></li>
+  <li>🛠️ Gosto de criar ferramentas que economizam tempo e ampliam possibilidades</li>
+  <li>🎯 Missão: desenvolver soluções com visual marcante, performance e propósito</li>
+  <li>⚡ Princípio: tecnologia boa parece magia, mas roda com engenharia</li>
+</ul>
 
     </td>
     <td width="40%" align="center">
@@ -68,30 +72,27 @@ Sou **Bryan**, um(a) desenvolvedor(a) focado(a) em criar experiências digitais 
 
 <div align="center">
 
-### Core
+  <h3>Core</h3>
+  <img src="https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+  <h3>Frontend</h3>
+  <img src="https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-050816?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-050816?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Vite-050816?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite"/>
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-050816?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-050816?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-050816?style=for-the-badge&logo=vite&logoColor=646CFF)
-
-### Backend, Dados e Cloud
-
-![Express](https://img.shields.io/badge/Express-050816?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050816?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-050816?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Firebase](https://img.shields.io/badge/Firebase-050816?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Docker](https://img.shields.io/badge/Docker-050816?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-050816?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+  <h3>Backend, Dados e Cloud</h3>
+  <img src="https://img.shields.io/badge/Express-050816?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-050816?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-050816?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-050816?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Docker-050816?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vercel-050816?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel"/>
 
 </div>
 
@@ -101,14 +102,14 @@ Sou **Bryan**, um(a) desenvolvedor(a) focado(a) em criar experiências digitais 
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-050816?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-050816?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-050816?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Postman](https://img.shields.io/badge/Postman-050816?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Notion](https://img.shields.io/badge/Notion-050816?style=for-the-badge&logo=notion&logoColor=FFFFFF)
-![OpenAI](https://img.shields.io/badge/OpenAI-050816?style=for-the-badge&logo=openai&logoColor=00E5FF)
-![Linux](https://img.shields.io/badge/Linux-050816?style=for-the-badge&logo=linux&logoColor=FCC624)
+  <img src="https://img.shields.io/badge/Git-050816?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-050816?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-050816?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Postman-050816?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Notion-050816?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="Notion"/>
+  <img src="https://img.shields.io/badge/OpenAI-050816?style=for-the-badge&logo=openai&logoColor=00E5FF" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Linux-050816?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
 
 </div>
 
@@ -116,35 +117,23 @@ Sou **Bryan**, um(a) desenvolvedor(a) focado(a) em criar experiências digitais 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="28" alt="cards"/> Projetos em Destaque
 
-<div align="center">
-
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/BrayanChandler/REPOSITORIO_01">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrayanChandler&repo=REPOSITORIO_01&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF&icon_color=FF007A" alt="Projeto 01"/>
+      <a href="https://github.com/BrayanChandler/BrayanChandler">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrayanChandler&repo=BrayanChandler&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF&icon_color=FF007A" alt="BrayanChandler"/>
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/BrayanChandler/REPOSITORIO_02">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrayanChandler&repo=REPOSITORIO_02&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF&icon_color=FF007A" alt="Projeto 02"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/BrayanChandler/REPOSITORIO_03">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrayanChandler&repo=REPOSITORIO_03&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF&icon_color=FF007A" alt="Projeto 03"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/BrayanChandler/REPOSITORIO_04">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrayanChandler&repo=REPOSITORIO_04&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF&icon_color=FF007A" alt="Projeto 04"/>
+      <a href="https://github.com/BrayanChandler/Generate-Snake">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrayanChandler&repo=Generate-Snake&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF&icon_color=FF007A" alt="Generate Snake"/>
       </a>
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/NOVOS%20PROJETOS-EM%20DESENVOLVIMENTO-FF007A?style=for-the-badge&labelColor=050816" alt="Novos projetos em desenvolvimento"/>
 </div>
 
 ---
@@ -212,21 +201,13 @@ SYSTEM RESPONSE: ambitions_loaded && execution_mode=ON
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/SEU_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-050816?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="Twitter/X"/>
-  </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-050816?style=for-the-badge&logo=instagram&logoColor=FF007A" alt="Instagram"/>
+  <a href="https://github.com/BrayanChandler">
+    <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
   </a>
   <a href="mailto:brayanchandler@gmail.com">
     <img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
-  <a href="https://SEU_PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/>
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-EM%20BREVE-FF007A?style=for-the-badge&labelColor=050816&logo=vercel&logoColor=FFFFFF" alt="Portfolio em breve"/>
 
 </div>
 
