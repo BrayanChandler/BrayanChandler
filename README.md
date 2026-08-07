@@ -1,11 +1,4 @@
 
-==============================================================================
- README PROFILE - JARVIS / IA / CYBERPUNK
- Troque os placeholders antes de publicar:
- BrayanChandler, Bryan, Tecnico em Informatica, Se formando em ADS., Manaus, Am, brayanchandler@gmail.com, seus links e repos
-==============================================================================
--->
-
 <div align="center">
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,45:00E5FF,75:7C3AED,100:FF007A&text=Bryan&fontColor=E6F7FF&fontSize=52&fontAlignY=38&desc=AI%20Interface%20%7C%20Cyberpunk%20Developer%20%7C%20System%20Online&descSize=16&descAlignY=58&animation=fadeIn" alt="banner futurista"/>
