@@ -1,4 +1,4 @@
-  <!--
+<!--
 ==============================================================================
  README PROFILE - JARVIS / IA / CYBERPUNK
  Troque os placeholders antes de publicar:
@@ -39,7 +39,7 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="28" alt="robot"/> Sobre Mim
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="28" alt="robot"/> Sobre Mim
 
 <table>
   <tr>
@@ -61,14 +61,14 @@
 
     </td>
     <td width="40%" align="center">
-      <img width="310" src="https://github-readme-stats.vercel.app/api?username=BrayanChandler&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=FF007A&text_color=E6F7FF" alt="GitHub Stats"/>
+      <img width="310" src="https://github-stats-extended.vercel.app/api?username=BrayanChandler&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=FF007A&text_color=E6F7FF" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="28" alt="bolt"/> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" alt="bolt"/> Tech Stack
 
 <div align="center">
 
@@ -121,12 +121,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/BrayanChandler/BrayanChandler">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrayanChandler&repo=BrayanChandler&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF&icon_color=FF007A" alt="BrayanChandler"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BrayanChandler&repo=BrayanChandler&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF&icon_color=FF007A" alt="BrayanChandler"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/BrayanChandler/Generate-Snake">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrayanChandler&repo=Generate-Snake&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF&icon_color=FF007A" alt="Generate Snake"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=BrayanChandler&repo=Generate-Snake&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF&icon_color=FF007A" alt="Generate Snake"/>
       </a>
     </td>
   </tr>
@@ -158,8 +158,8 @@ SYSTEM RESPONSE: ambitions_loaded && execution_mode=ON
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrayanChandler&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=FF007A&text_color=E6F7FF&rank_icon=github" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanChandler&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF" alt="Top Languages"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=BrayanChandler&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=FF007A&text_color=E6F7FF&rank_icon=github" alt="GitHub Stats"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BrayanChandler&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF" alt="Top Languages"/>
 
   <br/><br/>
 
@@ -173,7 +173,7 @@ SYSTEM RESPONSE: ambitions_loaded && execution_mode=ON
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" alt="trophy"/> GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" alt="trophy"/> GitHub Trophies
 
 <div align="center">
 
