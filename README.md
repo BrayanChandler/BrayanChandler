@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30845102/README.md)  <!--
+
 ==============================================================================
  README PROFILE - JARVIS / IA / CYBERPUNK
  Troque os placeholders antes de publicar:
