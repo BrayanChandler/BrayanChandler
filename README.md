@@ -1,4 +1,4 @@
-  <!--
+[README.md](https://github.com/user-attachments/files/30845102/README.md)  <!--
 ==============================================================================
  README PROFILE - JARVIS / IA / CYBERPUNK
  Troque os placeholders antes de publicar:
@@ -198,16 +198,21 @@ SYSTEM RESPONSE: ambitions_loaded && execution_mode=ON
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrayanChandler/BrayanChandler/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrayanChandler/BrayanChandler/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrayanChandler/BrayanChandler/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <a href="https://github.com/BrayanChandler/BrayanChandler/actions/workflows/snake.yml">
+    <img src="https://img.shields.io/badge/Snake%20Animation-Run%20Workflow-00E5FF?style=for-the-badge&labelColor=050816&logo=githubactions&logoColor=00E5FF" alt="Run Snake Workflow"/>
+  </a>
+
+  <br/><br/>
+
+  <pre><code>[SNAKE_MODULE] Aguardando primeira execução do GitHub Actions...
+[OUTPUT_BRANCH] Será criada automaticamente após rodar o workflow.
+[STATUS] Assim que gerar a branch output, ative o bloco &lt;picture&gt; abaixo.</code></pre>
 
 </div>
 
 <!--
-Para gerar a Snake Animation, crie o arquivo .github/workflows/snake.yml no repo do seu perfil:
+1. Crie este arquivo no repo do seu perfil:
+   .github/workflows/snake.yml
 
 name: Generate Snake
 
@@ -234,6 +239,18 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+2. Depois de executar a Action e a branch output existir, substitua o bloco visual acima por:
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrayanChandler/BrayanChandler/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrayanChandler/BrayanChandler/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrayanChandler/BrayanChandler/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+
+</div>
 -->
 
 ---
@@ -242,13 +259,13 @@ jobs:
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/Naaada">
     <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/SEU_TWITTER">
+  <a href="https://twitter.com/Sem">
     <img src="https://img.shields.io/badge/Twitter%20%2F%20X-050816?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="Twitter/X"/>
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM">
+  <a href="https://instagram.com/bryan.chs">
     <img src="https://img.shields.io/badge/Instagram-050816?style=for-the-badge&logo=instagram&logoColor=FF007A" alt="Instagram"/>
   </a>
   <a href="mailto:brayanchandler@gmail.com">
