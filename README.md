@@ -46,7 +46,7 @@
 <td width="60%">
 
 <p>
-Sou <strong>Bryan</strong>, um desenvolvedor focado em criar experiências digitais modernas, inteligentes e performáticas.
+Me chamo <strong>Brayan</strong>, um desenvolvedor focado em criar experiências digitais modernas, inteligentes e performáticas.
 Gosto de unir <strong>código limpo</strong>, <strong>interfaces premium</strong>, <strong>automação</strong>, <strong>IA</strong> e
 <strong>arquitetura escalável</strong> para transformar ideias em produtos reais.
 </p>
