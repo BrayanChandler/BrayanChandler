@@ -127,7 +127,7 @@ Gosto de unir <strong>código limpo</strong>, <strong>interfaces premium</strong
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/BrayanChandler/Generate-Snake">
+      <a href="https://github.com/BrayanChandler/Assistente-Blip-Desk">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=BrayanChandler&repo=Generate-Snake&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F7FF&icon_color=FF007A" alt="Generate Snake"/>
       </a>
     </td>
